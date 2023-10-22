@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Eclo19
-- 👀 I’m interested in Music Production / Sound Engineering 
+- 👀 I’m interested in DSP / Sound Engineering 
 - 🌱 I’m currently learning JUCE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : eric.cerruti19@gmail.com
 
 <!---
 Eclo19/Eclo19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
