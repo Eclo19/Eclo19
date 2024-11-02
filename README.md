@@ -1,5 +1,5 @@
 # 💫 About Me:
-Main Interests: Audio Signal Processing and Machine Learning<br>I am interested in DSP, Music, and ML!
+Main Interests: Audio Signal Processing and Machine Learning<br>I am love DSP, Music, and ML!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric%20Oliveira-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-oliveira-1b760a231)
