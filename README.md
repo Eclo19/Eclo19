@@ -5,9 +5,7 @@ I am open for collaboration on exciting audio projects!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric%20Oliveira-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-oliveira-1b760a231)
-
 [![Email](https://img.shields.io/badge/Email-eric.cerruti19%40gmail.com-%23D14836.svg?logo=gmail&logoColor=white)](mailto:eric.cerruti19@gmail.com)
-
 
 # 🎓 Education:
 I hold a B.S. in Sound Engineering with a minor in Electrical Engineering from the University of Michigan. My studies focused on the intersection of audio technology and signal processing, equipping me with a solid foundation in both technical and creative aspects of sound engineering.
