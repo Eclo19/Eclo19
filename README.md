@@ -67,6 +67,3 @@ sorted_languages = sorted(language_count.items(), key=lambda x: x[1], reverse=Tr
 print("Languages used in repositories:")
 for lang, count in sorted_languages:
     print(f"{lang}: {count} repository/repositories")
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
